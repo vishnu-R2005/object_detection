@@ -58,17 +58,17 @@ python detect_webcam.py --video 0
 ## 📸 Sample Outputs
 
 ### Image Detection Example
-![Object Detection Example](asset\detected_image.png)
+![Object Detection Example](asset/detected_image.png)
 
 ---
 
 ## 🎥 Demo Videos
 
 ### Video Detection Example   
-![Watch the video](asset\object_detected_video.mp4)
+![Watch the video](asset/object_detected_video.mp4)
 
 ### Detection using webcam Example 
-![Watch the video](asset\object_detection_through_webcam.mp4)
+![Watch the video](asset/object_detection_through_webcam.mp4)
 
 ---
 
