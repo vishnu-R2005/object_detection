@@ -19,7 +19,7 @@ It can detect and label objects in:
 ## 📌 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/object-detection.git
+   git clone https://github.com/vishnu-R2005/object-detection.git
    cd object-detection
    ```
 
@@ -50,7 +50,7 @@ python detect_image.py --video your_video.mp4
 
 ### Detect objects using **webcam**
 ```bash
-python detect_webcam.py
+python detect_webcam.py --video 0
 ```
 
 ---
@@ -58,17 +58,17 @@ python detect_webcam.py
 ## 📸 Sample Outputs
 
 ### Image Detection Example
-![Object Detection Example](Screenshot%202025-08-19%20150234.png)
+![Object Detection Example](asset\detected_image.png)
 
 ---
 
 ## 🎥 Demo Videos
 
-### Video Detection Example 1  
-[![Watch the video](Screenshot%202025-08-19%20150234.png)](Screen%20Recording%202025-08-19%20145640.mp4)
+### Video Detection Example   
+![Watch the video](asset\object_detected_video.mp4)
 
-### Video Detection Example 2  
-[![Watch the video](Screenshot%202025-08-19%20150234.png)](Screen%20Recording%202025-08-19%20145921.mp4)
+### Detection using webcam Example 
+![Watch the video](asset\object_detection_through_webcam.mp4)
 
 ---
 
